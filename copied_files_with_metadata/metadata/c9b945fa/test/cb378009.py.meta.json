@@ -1,0 +1,17 @@
+{
+  "id": "30739",
+  "file_id": "cb378009",
+  "domain": "GitHub",
+  "repo_name": "c9b945fa",
+  "original_file_path": "data/c9b945fa/test/cb378009.py",
+  "copied_file_path": "files/c9b945fa/test/cb378009.py",
+  "line_start": 41,
+  "line_end": 41,
+  "ground_truth": "T",
+  "value_start": 27,
+  "value_end": 43,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Secret",
+  "source_csv": "c9b945fa.csv"
+}

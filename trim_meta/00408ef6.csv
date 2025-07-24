@@ -1,0 +1,4 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+1330673,bbcf1132,GitHub,00408ef6,data/00408ef6/src/app/bbcf1132.cpp,39,39,T,26,62,,,UUID
+18157,eee97fd2,GitHub,00408ef6,data/00408ef6/lib/eee97fd2.c,4256,4256,T,16,24,,,URL Credentials
+30,1d02852d,GitHub,00408ef6,data/00408ef6/sample/1d02852d.c,475,475,F,,,,,Password

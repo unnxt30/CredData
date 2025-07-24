@@ -1,0 +1,17 @@
+{
+  "id": "35000",
+  "file_id": "0aa2d3d2",
+  "domain": "GitHub",
+  "repo_name": "87e029df",
+  "original_file_path": "data/87e029df/test/fixture/0aa2d3d2.json",
+  "copied_file_path": "files/87e029df/test/fixture/0aa2d3d2.json",
+  "line_start": 5,
+  "line_end": 5,
+  "ground_truth": "X",
+  "value_start": 35,
+  "value_end": 40,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "URL Credentials",
+  "source_csv": "87e029df.csv"
+}

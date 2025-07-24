@@ -1,0 +1,17 @@
+{
+  "id": "35001",
+  "file_id": "1faa942a",
+  "domain": "GitHub",
+  "repo_name": "87e029df",
+  "original_file_path": "data/87e029df/test/1faa942a.js",
+  "copied_file_path": "files/87e029df/test/1faa942a.js",
+  "line_start": 98,
+  "line_end": 98,
+  "ground_truth": "T",
+  "value_start": 37,
+  "value_end": 42,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "URL Credentials",
+  "source_csv": "87e029df.csv"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "17221",
+  "file_id": "7b3ed02b",
+  "domain": "GitHub",
+  "repo_name": "ff527e6f",
+  "original_file_path": "data/ff527e6f/_/7b3ed02b.rst",
+  "copied_file_path": "files/ff527e6f/_/7b3ed02b.rst",
+  "line_start": 11,
+  "line_end": 11,
+  "ground_truth": "T",
+  "value_start": 90,
+  "value_end": 100,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Token",
+  "source_csv": "ff527e6f.csv"
+}

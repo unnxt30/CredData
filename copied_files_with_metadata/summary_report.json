@@ -1,0 +1,47 @@
+{
+  "total_records": 24,
+  "successfully_copied": 24,
+  "failed_to_copy": 0,
+  "statistics": {
+    "by_ground_truth": {
+      "T": 7,
+      "X": 5,
+      "F": 12
+    },
+    "by_category": {
+      "Secret": 4,
+      "Auth:Secret:Token": 1,
+      "Auth": 3,
+      "Token": 2,
+      "Password": 4,
+      "PEM Private Key": 1,
+      "API": 1,
+      "URL Credentials": 4,
+      "UUID": 1,
+      "Credential": 1,
+      "Key": 2
+    },
+    "by_repo": {
+      "c9b945fa": 3,
+      "ff527e6f": 3,
+      "b133f43d": 3,
+      "efb4b495": 2,
+      "00408ef6": 3,
+      "4638da2b": 2,
+      "39def7b4": 3,
+      "87e029df": 3,
+      "d2926eb1": 2
+    },
+    "by_source_csv": {
+      "c9b945fa.csv": 3,
+      "ff527e6f.csv": 3,
+      "b133f43d.csv": 3,
+      "efb4b495.csv": 2,
+      "00408ef6.csv": 3,
+      "4638da2b.csv": 2,
+      "39def7b4.csv": 3,
+      "87e029df.csv": 3,
+      "d2926eb1.csv": 2
+    }
+  }
+}

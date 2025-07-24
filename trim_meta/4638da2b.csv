@@ -1,0 +1,3 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+2341,fccb8d5c,GitHub,4638da2b,data/4638da2b/src/fccb8d5c.php,184,184,F,,,,,Token
+3054,281f4af8,GitHub,4638da2b,data/4638da2b/src/secret/281f4af8.php,57,57,F,,,,,Secret

@@ -1,0 +1,17 @@
+{
+  "id": "17247",
+  "file_id": "d97e408a",
+  "domain": "GitHub",
+  "repo_name": "39def7b4",
+  "original_file_path": "data/39def7b4/spec/d97e408a.rb",
+  "copied_file_path": "files/39def7b4/spec/d97e408a.rb",
+  "line_start": 91,
+  "line_end": 91,
+  "ground_truth": "T",
+  "value_start": 51,
+  "value_end": 112,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Credential",
+  "source_csv": "39def7b4.csv"
+}

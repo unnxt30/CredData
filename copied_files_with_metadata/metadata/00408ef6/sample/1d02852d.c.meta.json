@@ -1,0 +1,17 @@
+{
+  "id": "30",
+  "file_id": "1d02852d",
+  "domain": "GitHub",
+  "repo_name": "00408ef6",
+  "original_file_path": "data/00408ef6/sample/1d02852d.c",
+  "copied_file_path": "files/00408ef6/sample/1d02852d.c",
+  "line_start": 475,
+  "line_end": 475,
+  "ground_truth": "F",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Password",
+  "source_csv": "00408ef6.csv"
+}

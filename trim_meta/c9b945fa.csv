@@ -1,0 +1,4 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+30739,cb378009,GitHub,c9b945fa,data/c9b945fa/test/cb378009.py,41,41,T,27,43,,,Secret
+28927,0cb23f01,GitHub,c9b945fa,data/c9b945fa/test/0cb23f01.py,245,245,X,35,46,,,Auth:Secret:Token
+2172,cec4df94,GitHub,c9b945fa,data/c9b945fa/example/docs/cec4df94.rst,157,157,F,,,,,Auth

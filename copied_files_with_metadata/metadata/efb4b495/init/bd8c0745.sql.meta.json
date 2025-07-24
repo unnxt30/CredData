@@ -1,0 +1,17 @@
+{
+  "id": "4328",
+  "file_id": "bd8c0745",
+  "domain": "GitHub",
+  "repo_name": "efb4b495",
+  "original_file_path": "data/efb4b495/init/bd8c0745.sql",
+  "copied_file_path": "files/efb4b495/init/bd8c0745.sql",
+  "line_start": 9,
+  "line_end": 9,
+  "ground_truth": "F",
+  "value_start": 21,
+  "value_end": 48,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Password",
+  "source_csv": "efb4b495.csv"
+}

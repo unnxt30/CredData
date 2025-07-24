@@ -1,0 +1,17 @@
+{
+  "id": "2172",
+  "file_id": "cec4df94",
+  "domain": "GitHub",
+  "repo_name": "c9b945fa",
+  "original_file_path": "data/c9b945fa/example/docs/cec4df94.rst",
+  "copied_file_path": "files/c9b945fa/example/docs/cec4df94.rst",
+  "line_start": 157,
+  "line_end": 157,
+  "ground_truth": "F",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Auth",
+  "source_csv": "c9b945fa.csv"
+}

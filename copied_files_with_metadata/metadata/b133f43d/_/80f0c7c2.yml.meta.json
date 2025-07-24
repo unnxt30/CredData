@@ -1,0 +1,17 @@
+{
+  "id": "28881",
+  "file_id": "80f0c7c2",
+  "domain": "GitHub",
+  "repo_name": "b133f43d",
+  "original_file_path": "data/b133f43d/_/80f0c7c2.yml",
+  "copied_file_path": "files/b133f43d/_/80f0c7c2.yml",
+  "line_start": 102,
+  "line_end": 102,
+  "ground_truth": "X",
+  "value_start": 19,
+  "value_end": 23,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Password",
+  "source_csv": "b133f43d.csv"
+}

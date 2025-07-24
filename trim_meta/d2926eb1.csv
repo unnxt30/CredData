@@ -1,0 +1,3 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+23465,8e89f5c4,GitHub,d2926eb1,data/d2926eb1/src/rest/sys/modul/8e89f5c4.java,72,72,F,,,,,Auth
+1200,6631b0fe,GitHub,d2926eb1,data/d2926eb1/src/conf/resource/app/6631b0fe.yml,88,88,F,,,,,Key

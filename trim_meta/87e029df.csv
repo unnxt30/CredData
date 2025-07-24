@@ -1,0 +1,4 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+35001,1faa942a,GitHub,87e029df,data/87e029df/test/1faa942a.js,98,98,T,37,42,,,URL Credentials
+35000,0aa2d3d2,GitHub,87e029df,data/87e029df/test/fixture/0aa2d3d2.json,5,5,X,35,40,,,URL Credentials
+1104,4e7a2ace,GitHub,87e029df,data/87e029df/test/4e7a2ace.js,506,506,F,,,,,Key

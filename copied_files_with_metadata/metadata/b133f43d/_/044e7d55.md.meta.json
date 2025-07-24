@@ -1,0 +1,17 @@
+{
+  "id": "483",
+  "file_id": "044e7d55",
+  "domain": "GitHub",
+  "repo_name": "b133f43d",
+  "original_file_path": "data/b133f43d/_/044e7d55.md",
+  "copied_file_path": "files/b133f43d/_/044e7d55.md",
+  "line_start": 14,
+  "line_end": 14,
+  "ground_truth": "F",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "API",
+  "source_csv": "b133f43d.csv"
+}

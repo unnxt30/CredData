@@ -1,0 +1,17 @@
+{
+  "id": "23465",
+  "file_id": "8e89f5c4",
+  "domain": "GitHub",
+  "repo_name": "d2926eb1",
+  "original_file_path": "data/d2926eb1/src/rest/sys/modul/8e89f5c4.java",
+  "copied_file_path": "files/d2926eb1/src/rest/sys/modul/8e89f5c4.java",
+  "line_start": 72,
+  "line_end": 72,
+  "ground_truth": "F",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Auth",
+  "source_csv": "d2926eb1.csv"
+}

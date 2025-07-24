@@ -1,0 +1,17 @@
+{
+  "id": "22029",
+  "file_id": "2d217115",
+  "domain": "GitHub",
+  "repo_name": "39def7b4",
+  "original_file_path": "data/39def7b4/spec/api/2d217115.rb",
+  "copied_file_path": "files/39def7b4/spec/api/2d217115.rb",
+  "line_start": 36,
+  "line_end": 36,
+  "ground_truth": "X",
+  "value_start": 21,
+  "value_end": 27,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Secret",
+  "source_csv": "39def7b4.csv"
+}

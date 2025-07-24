@@ -1,0 +1,17 @@
+{
+  "id": "29794",
+  "file_id": "d734dab9",
+  "domain": "GitHub",
+  "repo_name": "ff527e6f",
+  "original_file_path": "data/ff527e6f/test/example/resource/d734dab9.py",
+  "copied_file_path": "files/ff527e6f/test/example/resource/d734dab9.py",
+  "line_start": 21,
+  "line_end": 21,
+  "ground_truth": "X",
+  "value_start": 22,
+  "value_end": 25,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Password",
+  "source_csv": "ff527e6f.csv"
+}

@@ -1,0 +1,4 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+17221,7b3ed02b,GitHub,ff527e6f,data/ff527e6f/_/7b3ed02b.rst,11,11,T,90,100,,,Token
+29794,d734dab9,GitHub,ff527e6f,data/ff527e6f/test/example/resource/d734dab9.py,21,21,X,22,25,,,Password
+6352,046331d0,GitHub,ff527e6f,data/ff527e6f/docs/046331d0.rst,78,78,F,,,,,Auth

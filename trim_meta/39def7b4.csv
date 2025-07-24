@@ -1,0 +1,4 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+17247,d97e408a,GitHub,39def7b4,data/39def7b4/spec/d97e408a.rb,91,91,T,51,112,,,Credential
+22029,2d217115,GitHub,39def7b4,data/39def7b4/spec/api/2d217115.rb,36,36,X,21,27,,,Secret
+255,64efeea8,GitHub,39def7b4,data/39def7b4/lib/64efeea8.rb,13,13,F,,,,,Secret

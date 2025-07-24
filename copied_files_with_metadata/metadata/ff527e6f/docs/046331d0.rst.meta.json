@@ -1,0 +1,17 @@
+{
+  "id": "6352",
+  "file_id": "046331d0",
+  "domain": "GitHub",
+  "repo_name": "ff527e6f",
+  "original_file_path": "data/ff527e6f/docs/046331d0.rst",
+  "copied_file_path": "files/ff527e6f/docs/046331d0.rst",
+  "line_start": 78,
+  "line_end": 78,
+  "ground_truth": "F",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "Auth",
+  "source_csv": "ff527e6f.csv"
+}

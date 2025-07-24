@@ -1,0 +1,17 @@
+{
+  "id": "1330673",
+  "file_id": "bbcf1132",
+  "domain": "GitHub",
+  "repo_name": "00408ef6",
+  "original_file_path": "data/00408ef6/src/app/bbcf1132.cpp",
+  "copied_file_path": "files/00408ef6/src/app/bbcf1132.cpp",
+  "line_start": 39,
+  "line_end": 39,
+  "ground_truth": "T",
+  "value_start": 26,
+  "value_end": 62,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "UUID",
+  "source_csv": "00408ef6.csv"
+}

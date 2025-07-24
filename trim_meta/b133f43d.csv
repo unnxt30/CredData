@@ -1,0 +1,4 @@
+Id,FileID,Domain,RepoName,FilePath,LineStart,LineEnd,GroundTruth,ValueStart,ValueEnd,CryptographyKey,PredefinedPattern,Category
+35495,a844bf5e,GitHub,b133f43d,data/b133f43d/example/a844bf5e.p8,1,28,T,,,Private,,PEM Private Key
+28881,80f0c7c2,GitHub,b133f43d,data/b133f43d/_/80f0c7c2.yml,102,102,X,19,23,,,Password
+483,044e7d55,GitHub,b133f43d,data/b133f43d/_/044e7d55.md,14,14,F,,,,,API

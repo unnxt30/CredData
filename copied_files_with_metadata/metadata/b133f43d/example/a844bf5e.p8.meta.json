@@ -1,0 +1,17 @@
+{
+  "id": "35495",
+  "file_id": "a844bf5e",
+  "domain": "GitHub",
+  "repo_name": "b133f43d",
+  "original_file_path": "data/b133f43d/example/a844bf5e.p8",
+  "copied_file_path": "files/b133f43d/example/a844bf5e.p8",
+  "line_start": 1,
+  "line_end": 28,
+  "ground_truth": "T",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": "Private",
+  "predefined_pattern": null,
+  "category": "PEM Private Key",
+  "source_csv": "b133f43d.csv"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "53",
+  "file_id": "b3356305",
+  "domain": "GitHub",
+  "repo_name": "efb4b495",
+  "original_file_path": "data/efb4b495/_/b3356305.md",
+  "copied_file_path": "files/efb4b495/_/b3356305.md",
+  "line_start": 401,
+  "line_end": 401,
+  "ground_truth": "F",
+  "value_start": null,
+  "value_end": null,
+  "cryptography_key": null,
+  "predefined_pattern": null,
+  "category": "URL Credentials",
+  "source_csv": "efb4b495.csv"
+}
